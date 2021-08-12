@@ -31,7 +31,7 @@ A [versão online](https://github.com/21-lessons/21-lessons.github.io) deste liv
 
 ## Tradução
 
-Graças aos incríveis membros da comunidade Bitcoin, o livro foi [traduzido para vários idiomas]https://21lessons.com/translations), incluindo:
+Graças aos incríveis membros da comunidade Bitcoin, o livro foi [traduzido para vários idiomas](https://21lessons.com/translations), incluindo:
 
 * Espanhol
 * Turco
